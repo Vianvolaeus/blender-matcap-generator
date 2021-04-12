@@ -14,6 +14,7 @@ This will mean that you can access the initial file at any time. It will *not* r
 
 ### If you wish to override the inital generator file (perhaps you've added materials or lighting setups, etc), you can unzip the MatcapGen.zip and overwrite the startup.blend with your new file. **Make sure the filename remains to be startup.blend - rename it if necessary**
 You can then rezip and overwrite the original by running the Install Application Template again:
+
 ![image](https://user-images.githubusercontent.com/80061436/114399934-61eaa000-9b99-11eb-9fb9-ac50889b0b49.png)
 
 
