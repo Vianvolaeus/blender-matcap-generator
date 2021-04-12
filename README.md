@@ -83,3 +83,7 @@ Contains transform properties - flip, rotate etc - as trivial as they might seem
 
 ![image](https://user-images.githubusercontent.com/80061436/114404985-21d9ec00-9b9e-11eb-8e84-ce72fa3b3989.png)
 
+# Premade Matcaps
+
+You can pick up an organised master collection, as well as some curated matcap sets made using this generator here:
+https://nova-works.booth.pm/
