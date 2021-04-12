@@ -1,4 +1,7 @@
 # Blender Matcap Generator
+
+![matcapgen_github](https://user-images.githubusercontent.com/80061436/114408006-e68cec80-9ba0-11eb-9761-2b0521d22591.png)
+
  Blender generator for MatCaps / "Sphere Textures".
 
  This is a generator for Matcap textures using a combination of various lighting setups, including 'shadow lights' which remove light, and Blender's material node setup.
