@@ -1,3 +1,9 @@
+## NOTE: Due to the popularity of this addon (notably VRchat gumroad creators - I see you selling the defaults!) but the underwhelming support of it's development ($0 in donations compared to thousands of $ in sales of it's outputs), future development of the free repo will cease.
+
+### A paid release of a more feature complete version is under development. For now, if you have benefited from this generator, I'd appreciate any donations 👇
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E55627J)
+
 # Blender Matcap Generator
 
 ![matcapgen_github](https://user-images.githubusercontent.com/80061436/114408006-e68cec80-9ba0-11eb-9761-2b0521d22591.png)
@@ -7,6 +13,8 @@
  This is a generator for Matcap textures using a combination of various lighting setups, including 'shadow lights' which remove light, and Blender's material node setup.
  
  Basic materials have been added, but it is compatible with any node groups that can be applied to a basic UV Sphere.
+
+
 ### Output images can be used anywhere! These are commonly used in various (Unity) shaders and sculpting programs.
  
 ## Installation
